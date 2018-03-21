@@ -48,4 +48,5 @@ Architecture
 
 Screenshots
 ----
+![image](http://github.com/Youcunl/Assemblability-Analysis/raw/master/image/input.png)
 
