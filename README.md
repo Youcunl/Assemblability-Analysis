@@ -48,6 +48,6 @@ Architecture
 
 Screenshots
 ----
-<div align=center><img width="400" height="300" src="http://github.com/Youcunl/Assemblability-Analysis/raw/master/image/input.png"/></div>
-<div align=center><img width="400" height="300" src="http://github.com/Youcunl/Assemblability-Analysis/raw/master/image/output.png"/></div>
+<div align=center><img src="http://github.com/Youcunl/Assemblability-Analysis/raw/master/image/input.png" style="zoom:50%" /></div>
+<div align=center><img src="http://github.com/Youcunl/Assemblability-Analysis/raw/master/image/output.png" style="zoom:50%" /></div>
 
