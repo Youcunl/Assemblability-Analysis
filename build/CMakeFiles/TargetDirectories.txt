@@ -1,0 +1,10 @@
+/Users/Fabio/Desktop/project/part_match/build/CMakeFiles/rebuild_cache.dir
+/Users/Fabio/Desktop/project/part_match/build/CMakeFiles/part_match_bin.dir
+/Users/Fabio/Desktop/project/part_match/build/CMakeFiles/edit_cache.dir
+/Users/Fabio/Desktop/project/part_match/build/CMakeFiles/glew.dir
+/Users/Fabio/Desktop/project/part_match/build/glfw/CMakeFiles/edit_cache.dir
+/Users/Fabio/Desktop/project/part_match/build/glfw/CMakeFiles/rebuild_cache.dir
+/Users/Fabio/Desktop/project/part_match/build/glfw/src/CMakeFiles/edit_cache.dir
+/Users/Fabio/Desktop/project/part_match/build/glfw/src/CMakeFiles/rebuild_cache.dir
+/Users/Fabio/Desktop/project/part_match/build/glfw/src/CMakeFiles/glfw.dir
+/Users/Fabio/Desktop/project/part_match/build/glfw/src/CMakeFiles/glfw_objects.dir

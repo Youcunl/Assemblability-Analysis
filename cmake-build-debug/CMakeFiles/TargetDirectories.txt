@@ -1,0 +1,10 @@
+/Users/Fabio/Desktop/project/clion_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Fabio/Desktop/project/clion_test/cmake-build-debug/CMakeFiles/part_match_bin.dir
+/Users/Fabio/Desktop/project/clion_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Fabio/Desktop/project/clion_test/cmake-build-debug/CMakeFiles/glew.dir
+/Users/Fabio/Desktop/project/clion_test/cmake-build-debug/glfw/CMakeFiles/rebuild_cache.dir
+/Users/Fabio/Desktop/project/clion_test/cmake-build-debug/glfw/CMakeFiles/edit_cache.dir
+/Users/Fabio/Desktop/project/clion_test/cmake-build-debug/glfw/src/CMakeFiles/rebuild_cache.dir
+/Users/Fabio/Desktop/project/clion_test/cmake-build-debug/glfw/src/CMakeFiles/edit_cache.dir
+/Users/Fabio/Desktop/project/clion_test/cmake-build-debug/glfw/src/CMakeFiles/glfw.dir
+/Users/Fabio/Desktop/project/clion_test/cmake-build-debug/glfw/src/CMakeFiles/glfw_objects.dir

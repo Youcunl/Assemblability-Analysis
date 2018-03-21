@@ -1,0 +1,183 @@
+"/Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/Fabio/Desktop/project/clion_test
+-- Creating target: igl::core
+-- Found CGAL: /usr/local/lib/CGAL
+-- Creating target: igl::cgal
+CMake Warning at /Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:744 (message):
+  Imported targets not available for Boost version 106600
+Call Stack (most recent call first):
+  /Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:848 (_Boost_COMPONENT_DEPENDENCIES)
+  /Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:1435 (_Boost_MISSING_DEPENDENCIES)
+  /Users/Fabio/Desktop/project/libigl/shared/cmake/libigl.cmake:146 (find_package)
+  cmake/FindLIBIGL.cmake:36 (include)
+  CMakeLists.txt:26 (find_package)
+
+
+CMake Warning at /Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:744 (message):
+  Imported targets not available for Boost version 106600
+Call Stack (most recent call first):
+  /Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:848 (_Boost_COMPONENT_DEPENDENCIES)
+  /Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:1435 (_Boost_MISSING_DEPENDENCIES)
+  /Users/Fabio/Desktop/project/libigl/shared/cmake/libigl.cmake:146 (find_package)
+  cmake/FindLIBIGL.cmake:36 (include)
+  CMakeLists.txt:26 (find_package)
+
+
+-- Boost version: 1.66.0
+-- Found the following Boost libraries:
+--   thread
+--   system
+-- Creating target: igl::opengl
+-- Creating target: igl::opengl2
+-- Creating target: igl::opengl_glfw
+-- Using Cocoa for window creation
+-- Creating target: igl::viewer
+CMake Warning at /Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:744 (message):
+  Imported targets not available for Boost version 106600
+Call Stack (most recent call first):
+  /Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:848 (_Boost_COMPONENT_DEPENDENCIES)
+  /Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:1435 (_Boost_MISSING_DEPENDENCIES)
+  /usr/local/share/pcl-1.8/PCLConfig.cmake:124 (find_package)
+  /usr/local/share/pcl-1.8/PCLConfig.cmake:634 (find_boost)
+  /usr/local/share/pcl-1.8/PCLConfig.cmake:850 (find_external_library)
+  CMakeLists.txt:27 (find_package)
+
+
+CMake Warning at /Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:744 (message):
+  Imported targets not available for Boost version 106600
+Call Stack (most recent call first):
+  /Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:848 (_Boost_COMPONENT_DEPENDENCIES)
+  /Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:1435 (_Boost_MISSING_DEPENDENCIES)
+  /usr/local/share/pcl-1.8/PCLConfig.cmake:124 (find_package)
+  /usr/local/share/pcl-1.8/PCLConfig.cmake:634 (find_boost)
+  /usr/local/share/pcl-1.8/PCLConfig.cmake:850 (find_external_library)
+  CMakeLists.txt:27 (find_package)
+
+
+CMake Warning at /Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:744 (message):
+  Imported targets not available for Boost version 106600
+Call Stack (most recent call first):
+  /Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:848 (_Boost_COMPONENT_DEPENDENCIES)
+  /Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:1435 (_Boost_MISSING_DEPENDENCIES)
+  /usr/local/share/pcl-1.8/PCLConfig.cmake:124 (find_package)
+  /usr/local/share/pcl-1.8/PCLConfig.cmake:634 (find_boost)
+  /usr/local/share/pcl-1.8/PCLConfig.cmake:850 (find_external_library)
+  CMakeLists.txt:27 (find_package)
+
+
+CMake Warning at /Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:744 (message):
+  Imported targets not available for Boost version 106600
+Call Stack (most recent call first):
+  /Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:848 (_Boost_COMPONENT_DEPENDENCIES)
+  /Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:1435 (_Boost_MISSING_DEPENDENCIES)
+  /usr/local/share/pcl-1.8/PCLConfig.cmake:124 (find_package)
+  /usr/local/share/pcl-1.8/PCLConfig.cmake:634 (find_boost)
+  /usr/local/share/pcl-1.8/PCLConfig.cmake:850 (find_external_library)
+  CMakeLists.txt:27 (find_package)
+
+
+CMake Warning at /Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:744 (message):
+  Imported targets not available for Boost version 106600
+Call Stack (most recent call first):
+  /Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:848 (_Boost_COMPONENT_DEPENDENCIES)
+  /Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:1435 (_Boost_MISSING_DEPENDENCIES)
+  /usr/local/share/pcl-1.8/PCLConfig.cmake:124 (find_package)
+  /usr/local/share/pcl-1.8/PCLConfig.cmake:634 (find_boost)
+  /usr/local/share/pcl-1.8/PCLConfig.cmake:850 (find_external_library)
+  CMakeLists.txt:27 (find_package)
+
+
+CMake Warning at /Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:744 (message):
+  Imported targets not available for Boost version 106600
+Call Stack (most recent call first):
+  /Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:848 (_Boost_COMPONENT_DEPENDENCIES)
+  /Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:1435 (_Boost_MISSING_DEPENDENCIES)
+  /usr/local/share/pcl-1.8/PCLConfig.cmake:124 (find_package)
+  /usr/local/share/pcl-1.8/PCLConfig.cmake:634 (find_boost)
+  /usr/local/share/pcl-1.8/PCLConfig.cmake:850 (find_external_library)
+  CMakeLists.txt:27 (find_package)
+
+
+CMake Warning at /Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:744 (message):
+  Imported targets not available for Boost version 106600
+Call Stack (most recent call first):
+  /Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:848 (_Boost_COMPONENT_DEPENDENCIES)
+  /Users/Fabio/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/CLion.app/Contents/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:1435 (_Boost_MISSING_DEPENDENCIES)
+  /usr/local/share/pcl-1.8/PCLConfig.cmake:124 (find_package)
+  /usr/local/share/pcl-1.8/PCLConfig.cmake:634 (find_boost)
+  /usr/local/share/pcl-1.8/PCLConfig.cmake:850 (find_external_library)
+  CMakeLists.txt:27 (find_package)
+
+
+-- Boost version: 1.66.0
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+--   thread
+--   date_time
+--   iostreams
+--   serialization
+--   chrono
+-- Checking for module 'libopenni'
+--   No package 'libopenni' found
+-- Could NOT find openni (missing:  OPENNI_LIBRARY OPENNI_INCLUDE_DIRS) 
+** WARNING ** io features related to openni will be disabled
+-- Checking for module 'libopenni2'
+--   No package 'libopenni2' found
+-- Could NOT find OpenNI2 (missing:  OPENNI2_LIBRARY OPENNI2_INCLUDE_DIRS) 
+** WARNING ** io features related to openni2 will be disabled
+-- Could NOT find ensenso (missing:  ENSENSO_LIBRARY ENSENSO_INCLUDE_DIR) 
+** WARNING ** io features related to ensenso will be disabled
+-- Could NOT find DAVIDSDK (missing:  DAVIDSDK_LIBRARY DAVIDSDK_INCLUDE_DIR) 
+** WARNING ** io features related to davidSDK will be disabled
+-- Could NOT find DSSDK (missing:  _DSSDK_LIBRARIES) 
+** WARNING ** io features related to dssdk will be disabled
+** WARNING ** io features related to pcap will be disabled
+** WARNING ** io features related to png will be disabled
+** WARNING ** io features related to libusb-1.0 will be disabled
+-- Checking for module 'libopenni'
+--   No package 'libopenni' found
+-- Could NOT find openni (missing:  OPENNI_LIBRARY OPENNI_INCLUDE_DIRS) 
+** WARNING ** visualization features related to openni will be disabled
+-- Checking for module 'libopenni2'
+--   No package 'libopenni2' found
+-- Could NOT find OpenNI2 (missing:  OPENNI2_LIBRARY OPENNI2_INCLUDE_DIRS) 
+** WARNING ** visualization features related to openni2 will be disabled
+-- Could NOT find ensenso (missing:  ENSENSO_LIBRARY ENSENSO_INCLUDE_DIR) 
+** WARNING ** visualization features related to ensenso will be disabled
+-- Could NOT find DAVIDSDK (missing:  DAVIDSDK_LIBRARY DAVIDSDK_INCLUDE_DIR) 
+** WARNING ** visualization features related to davidSDK will be disabled
+-- Could NOT find DSSDK (missing:  _DSSDK_LIBRARIES) 
+** WARNING ** visualization features related to dssdk will be disabled
+-- Could NOT find RSSDK (missing:  _RSSDK_LIBRARIES) 
+** WARNING ** visualization features related to rssdk will be disabled
+-- Checking for module 'libopenni'
+--   No package 'libopenni' found
+-- Could NOT find openni (missing:  OPENNI_LIBRARY OPENNI_INCLUDE_DIRS) 
+** WARNING ** apps features related to openni will be disabled
+-- Found Glew: /usr/local/lib/libGLEW.dylib
+-- looking for PCL_COMMON
+-- looking for PCL_OCTREE
+-- looking for PCL_IO
+-- looking for PCL_KDTREE
+-- looking for PCL_SEARCH
+-- looking for PCL_SAMPLE_CONSENSUS
+-- looking for PCL_FILTERS
+-- looking for PCL_2D
+-- looking for PCL_GEOMETRY
+-- looking for PCL_FEATURES
+-- looking for PCL_ML
+-- looking for PCL_SEGMENTATION
+-- looking for PCL_VISUALIZATION
+-- looking for PCL_SURFACE
+-- looking for PCL_REGISTRATION
+-- looking for PCL_KEYPOINTS
+-- looking for PCL_TRACKING
+-- looking for PCL_RECOGNITION
+-- looking for PCL_STEREO
+-- looking for PCL_APPS
+-- looking for PCL_OUTOFCORE
+-- looking for PCL_PEOPLE
+-- looking for PCL_SIMULATION
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/Fabio/Desktop/project/clion_test/cmake-build-debug
