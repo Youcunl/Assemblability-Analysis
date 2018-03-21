@@ -48,6 +48,10 @@ Architecture
 
 Screenshots
 ----
-<div align=center><img width="50%" height="50%" src="http://github.com/Youcunl/Assemblability-Analysis/raw/master/image/input.png"/></div>
-<div align=center><img width="50%" height="50%" src="http://github.com/Youcunl/Assemblability-Analysis/raw/master/image/output.png"/></div>
+
+The input
+<div align=center><img width="50%" height="50%" src="./image/input.png"/></div>
+
+The output
+<div align=center><img width="50%" height="50%" src="./image/output.png"/></div>
 
